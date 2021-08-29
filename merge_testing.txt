@@ -1,2 +1,6 @@
 welcome to cmpe 131 s02
 bye bye bye
+<<<<<<< HEAD
+=======
+I am acing this class!
+>>>>>>> new-branch
